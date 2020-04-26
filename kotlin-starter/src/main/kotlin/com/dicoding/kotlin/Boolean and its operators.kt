@@ -61,10 +61,29 @@ fun main(){
     toChar(): Char
 */
 
+/*
 fun main(){
     val intNumber: Int = 15
     val byteNumber: Byte = intNumber.toByte() //ready to go
 
     println(byteNumber)
     println(intNumber)
+}*/
+
+/*
+fun main(){
+    val stringNumber = "23"
+    val intNumber = 3
+
+    println(intNumber + stringNumber.toInt()) //Maka var stringNumber berupa menjadi int
+    //sehingga yang seharusnya beroutput 323 (bila keduanya bertype string) menjadi 26
+
 }
+*/
+
+/*
+fun main(){
+    val readableNumber = 1_525_464
+    print(readableNumber)
+
+}*/
