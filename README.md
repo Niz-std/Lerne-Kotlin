@@ -1,2 +1,2 @@
 # Lerne-Kotlin
- A personal kotlin-learning repository
+## Our personal kotlin-learning repository

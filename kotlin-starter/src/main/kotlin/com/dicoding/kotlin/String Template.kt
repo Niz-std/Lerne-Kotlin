@@ -1,5 +1,6 @@
 package com.dicoding.kotlin
 
+<<<<<<< HEAD
 //Concatenation (+)
 /*fun main(){
     val name = 523
@@ -23,3 +24,5 @@ fun main(){
     println("Office ${if (hour > 7) "Already close" else "is open"}")
 
 }*/
+=======
+>>>>>>> master
