@@ -50,7 +50,7 @@ fun main() {
     }
 }*/
 
-//forEacchIndexed
+//forEachIndexed
 /*
 fun main() {
     val ranges = 1.rangeTo(10) step 3
@@ -66,5 +66,4 @@ fun main() {
         println("index $index")
     }
 }
-
 /*Sebenarnya ini merupakan sebuah aturan di mana ketika argumen dari sebuah lambda expression tidak digunakan, kita disarankan agar mengubahnya menjadi _ untuk menggantikan nama dari argumen tersebut*/
